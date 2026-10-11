@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">T2_DB</string>
+    <string name="hello_message">Добро пожаловать в приложение t2_db здесь ты можешь осущиствлять поиск по товарам которые есть у тебя на точки так же если ты админ но  твоя учетная запись не работает обратись к разработчику +79538514278</string>
+
+    <!-- Login -->
+    <string name="login_title">Вход в систему</string>
+    <string name="hint_full_name">ФИО</string>
+    <string name="hint_employee_code">Код сотрудника</string>
+    <string name="btn_login">Войти</string>
+    <string name="btn_back">Назад</string>
+
+    <!-- Admin -->
+    <string name="admin_title">Управление пользователями</string>
+    <string name="btn_add_user">Добавить пользователя</string>
+
+    <!-- Add User -->
+    <string name="add_user_title">Добавить пользователя</string>
+    <string name="btn_save">Сохранить</string>
+
+    <!-- Context Menu -->
+    <string name="ctx_delete_user">Удалить</string>
+
+    <!-- Toast Messages -->
+    <string name="error_empty_fields">Заполните все поля</string>
+    <string name="error_invalid_credentials">Неверные данные</string>
+    <string name="user_added_success">Пользователь добавлен</string>
+    <string name="user_deleted">Пользователь удалён</string>
+    <string name="error_duplicate_code">Код сотрудника уже существует</string>
+
+    <!-- Add Product -->
+    <string name="add_product_title">Добавить товар</string>
+    <string name="barcode_label">Штрихкод</string>
+    <string name="hint_barcode">Введите или отсканируйте штрихкод</string>
+    <string name="btn_scan">Сканировать</string>
+    <string name="hint_product_name">Название товара</string>
+    <string name="hint_price">Цена</string>
+    <string name="hint_quantity">Количество</string>
+
+    <!-- Product Toast Messages -->
+    <string name="toast_barcode_scanned">Штрихкод отсканирован</string>
+    <string name="toast_product_added">Товар добавлен</string>
+    <string name="error_scan_cancelled">Сканирование отменено</string>
+    <string name="error_invalid_price">Неверный формат цены</string>
+    <string name="error_invalid_quantity">Неверный формат количества</string>
+    <string name="error_duplicate_barcode">Штрихкод уже существует</string>
+
+    <!-- Navigation -->
+    <string name="nav_add_product">Добавить товар</string>
+    <string name="nav_products_list">Список товаров</string>
+    <string name="nav_search">Поиск</string>
+    <string name="nav_admin_users">Управление пользователями</string>
+    <string name="nav_contacts">Контакты</string>
+
+    <!-- Products List -->
+    <string name="products_list_title">Список товаров</string>
+    <string name="ctx_delete_product">Удалить товар</string>
+    <string name="toast_product_deleted">Товар удалён</string>
+
+    <!-- Search -->
+    <string name="search_title">Поиск товаров</string>
+    <string name="hint_search">Введите название или штрихкод</string>
+
+    <!-- Contacts -->
+    <string name="contacts_title">Контакты разработчика</string>
+    <string name="developer_label">Разработчик:</string>
+    <string name="developer_name">Солдатов Дмитрий Андреевич</string>
+    <string name="email_label">Email:</string>
+    <string name="developer_email">soldatov.dmitriy1352@gmail.com</string>
+    <string name="phone_label">Телефон:</string>
+    <string name="developer_phone">+7 (953) 851-42-78</string>
+    <string name="version_label">Версия приложения:</string>
+    <string name="app_version">1.0.0</string>
+</resources>
